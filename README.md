@@ -48,7 +48,7 @@ This project aims to answer questions such as:
 
 ## 1️⃣ Customer Retention Overview
 
-![Customer Retention Overview](Dashboard%20Screenshots/01_Customer_Retention_Overview.png)
+![Customer Retention Overview](01_Customer_Retention_Overview.png)
 
 ### KPIs
 - Total Customers
@@ -76,7 +76,7 @@ This project aims to answer questions such as:
 
 ## 2️⃣ Loyalty & Promotion Impact Analysis
 
-![Loyalty & Promotion Impact](Dashboard%20Screenshots/02_Loyalty_Promotion_Impact.png)
+![Loyalty & Promotion Impact](02_Loyalty_Promotion_Impact.png)
 
 ### KPIs
 
@@ -102,7 +102,7 @@ This project aims to answer questions such as:
 
 ## 3️⃣ Store & Channel Performance Analysis
 
-![Store & Channel Performance](Dashboard%20Screenshots/03_Store_Channel_Performance.png)
+![Store & Channel Performance](03_Store_Channel_Performance.png)
 
 ### KPIs
 
@@ -135,7 +135,7 @@ This project aims to answer questions such as:
 
 ## 4️⃣ Customer Lifetime Value (CLV) & Segmentation Analysis
 
-![Customer Lifetime Value](Dashboard%20Screenshots/04_CLV_Customer_Segmentation.png)
+![Customer Lifetime Value](04_CLV_Customer_Segmentation.png)
 
 ### KPIs
 
@@ -161,7 +161,7 @@ This project aims to answer questions such as:
 
 ## 5️⃣ Executive Summary & Business Recommendations
 
-![Executive Summary](Dashboard%20Screenshots/05_Executive_Summary.png)
+![Executive Summary](05_Executive_Summary.png)
 
 ### Executive Summary
 
