@@ -224,12 +224,11 @@ This dashboard summarizes the overall business performance and highlights major 
 ```
 Customer-Retention-Analytics-PowerBI
 │
-├── Dashboard Screenshots
-│   ├── 01_Customer_Retention_Overview.png
-│   ├── 02_Loyalty_Promotion_Impact.png
-│   ├── 03_Store_Channel_Performance.png
-│   ├── 04_CLV_Customer_Segmentation.png
-│   └── 05_Executive_Summary.png
+├── 01_Customer_Retention_Overview.png
+├── 02_Loyalty_Promotion_Impact.png
+├── 03_Store_Channel_Performance.png
+├── 04_CLV_Customer_Segmentation.png
+├── 05_Executive_Summary.png
 │
 ├── Customer_Retention_Analytics.pbix
 │
