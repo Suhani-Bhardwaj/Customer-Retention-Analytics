@@ -231,8 +231,6 @@ Customer-Retention-Analytics-PowerBI
 │   ├── 04_CLV_Customer_Segmentation.png
 │   └── 05_Executive_Summary.png
 │
-├── Dataset
-│
 ├── Customer_Retention_Analytics.pbix
 │
 └── README.md
